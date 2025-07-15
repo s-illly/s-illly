@@ -1,16 +1,19 @@
-## Hi there 👋
+$ fishfetch
 
-<!--
-**s-illly/s-illly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      /`·.¸                               lily song
+     /¸...¸`:·                            -------------------------
+ ¸.·´  ¸   `·.¸.·´)                       university of waterloo
+: © ):´;      ¸  {                        computer science '29 
+ `·.¸ `·  ¸.·´\`·¸)                       Hello! Bonjour! 你好!
+     `\\´´\¸.·´                           Languages: Python, HTML, JS, CSS
+                                          Frameworks: Tailwind, Bootstrap, Vue, Svelte
+                                          Positions: UI/UX, Graphics Designer, Front-end Engineer, Fullstack Engineer
+                                          Hobby: Music, Drawing, Reading
+                                          Future Pursuits: Psych, Digital Arts, AI Ethics, Computer Vision
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                         contacts
+                                         --------
+                                         twitter: https://x.com/s_illlier
+                                         linkedin: www.linkedin.com/in/s-lily
+                                         website: https://www.sillly.ca/
