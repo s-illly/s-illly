@@ -1,9 +1,9 @@
-$ fishfetch
+```$ fishfetch
 
-      /`·.¸                               lily song
+      /`·.¸                               Lily Song
      /¸...¸`:·                            -------------------------
- ¸.·´  ¸   `·.¸.·´)                       university of waterloo
-: © ):´;      ¸  {                        computer science '29 
+ ¸.·´  ¸   `·.¸.·´)                       University of Waterloo
+: © ):´;      ¸  {                        Computer Science '29 
  `·.¸ `·  ¸.·´\`·¸)                       Hello! Bonjour! 你好!
      `\\´´\¸.·´                           Languages: Python, HTML, JS, CSS
                                           Frameworks: Tailwind, Bootstrap, Vue, Svelte
@@ -12,8 +12,9 @@ $ fishfetch
                                           Future Pursuits: Psych, Digital Arts, AI Ethics, Computer Vision
 
 
-                                         contacts
+                                         Contacts
                                          --------
                                          twitter: https://x.com/s_illlier
                                          linkedin: www.linkedin.com/in/s-lily
                                          website: https://www.sillly.ca/
+```
